@@ -4,3 +4,5 @@ body weight of the population for a certain country, elo rating of chess players
 
 This notebook also computes the 95th, 90th, and 50th percentile of your 1D random 
 variable and draws the position of the 95th and 90th percentile on the plot using a vertical line.
+
+Very simple notebook, even a 5 year old could probably code this. 
